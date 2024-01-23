@@ -1,0 +1,2 @@
+# blog
+a rails app
